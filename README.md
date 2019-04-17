@@ -19,7 +19,6 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
      * [Trie](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
    * **Sorting Algorithm :**
      * [Merge Sort Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/merge%20sort%20tree.cpp)
-     
    * **Graphs :**
      * [BFS](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs.cpp)
      * [BFS in 2D Grid](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs%20in%202d.cpp)
