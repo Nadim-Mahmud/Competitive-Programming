@@ -17,7 +17,7 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
      * [Segment Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/segmet%20tree.cpp)
      * [Squre Root Decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
      * [Trie](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
-   * **Sorting Algorithm : **
+   * **Sorting Algorithm :**
      * [Merge Sort Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/merge%20sort%20tree.cpp)
      
    * **Graphs :**
