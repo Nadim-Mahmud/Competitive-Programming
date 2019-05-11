@@ -10,6 +10,7 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * [Factorial](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Big%20Interger/factorial.cpp)
   * **Computetional Geometry :**
     * *Covex Hull*
+      * [Jarvis Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Jarvis%20Algorithm.cpp)
       * [Graham Scan](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Covex%20Hull%20(Graham%20Scan)%20.cpp)
   * **Data Structure :**
     * [Binary Indexed Tree (BIT)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/binary%20indexed%20tree.cpp)
