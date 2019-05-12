@@ -5,6 +5,7 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
 
   * **Back Tracking :**
     * [Combinition Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Combinition_Generation.cpp)
+    * [Permutation Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Permutation_generation.cpp)
     * [m-Colouring](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/m-colouring.cpp)
   * **Big Interger :**
     * [Factorial](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Big%20Interger/factorial.cpp)
