@@ -769,7 +769,7 @@ void update(int low,int high,int ulow,int uhigh,int val,int pos)
 {
     if(low>high) return ;
     if(lazy[pos]!=0){ /// is not propagated yet
-        seg[pos] = 0;
+        seg[pos] += lazy[pos];
         if(low!=high){  ///if not leaf node
             lazy[pos*2+1] += lazy[pos];
             lazy[pos*2+2] += lazy[pos];
