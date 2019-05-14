@@ -44,3 +44,5 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
     * [Catalan Number log(n) implementation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/Catalan_number.cpp)
     
+  * **Miscellaneous :**
+    * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/matrix_exponent.cpp)
