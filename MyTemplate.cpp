@@ -21,7 +21,7 @@ int main()
 {
     ll i,j,a,b,ts,cn=0,cas=0,n,m,x,y,sum=0,mn=INT_MAX,mx=0;
     //freopen("test.txt","r",stdin);
-    cin>>n;
+    cin>>ts;
     /*while(++cas<=ts){
         scanf("%lld",&);
 
