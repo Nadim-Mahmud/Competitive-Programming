@@ -4,6 +4,11 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
 ### Topics :
 
   * **Sorting Algorithm :**
+    * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
+    * [Insertion Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Insertion%20Sort.cpp)
+    * [Selection Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Selection%20Sort.cpp)
+    * [Merge Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Merge%20Sort.cpp)
+    * [Quick Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Quick%20Sort.cpp)
   * **Back Tracking :**
     * [Combinition Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Combinition_Generation.cpp)
     * [Permutation Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Permutation_generation.cpp)
@@ -27,6 +32,7 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
       * [Prims Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
   * **String :**
     * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
+    * [Rabin Carp String Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Rabin%20Carp%20String%20Matching.cpp)
   * **Computetional Geometry :**
     * *Covex Hull*
       * [Jarvis Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Jarvis%20Algorithm.cpp)
