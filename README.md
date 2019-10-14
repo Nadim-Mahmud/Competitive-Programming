@@ -27,6 +27,8 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * [BFS in 2D Grid](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs%20in%202d.cpp)
     * [DFS Basic Code](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dfs%20basic%20.cpp)
     * [Dijkstra](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dijkstra.cpp)
+    * [Articulation Point](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20point.cpp)
+    * [Articulation Bridge](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20Bridge.cpp)
     * *minimum spannig tree :*
       * [Kruskal Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
       * [Prims Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
