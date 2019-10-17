@@ -1,5 +1,5 @@
 # Competitive-Programming-Template
-Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic code which i am using in competitive programming
+Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic code which i am using in competitive programming.Most of the codes implemented by me but some of them are collected.
 
 ### Topics :
 
