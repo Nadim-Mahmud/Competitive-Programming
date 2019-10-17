@@ -39,6 +39,8 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * *Covex Hull*
       * [Jarvis Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Jarvis%20Algorithm.cpp)
       * [Graham Scan](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Covex%20Hull%20(Graham%20Scan)%20.cpp)
+  * **Maxflow/Matching**
+    * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp)
   * **Number Theory Algorithms :**
     * [Bitwise Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/bitwise_sieve.cpp)
     * [Eulers Totient Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/eulers%20totient%20sieve.cpp)
@@ -54,3 +56,5 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     
   * **Miscellaneous :**
     * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/matrix_exponent.cpp)
+    * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/2-Sat.cpp)
+    * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stable%20Marriage.cpp)
