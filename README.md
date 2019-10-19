@@ -61,18 +61,21 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
     * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/matrix_exponent.cpp)
   * **Number Theory Algorithms :**
     * *Sieves :*
-      * [Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
+      * [Sieve nlogn](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
+      * [Sieve O(n)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/SIeve%20O_n.cpp)
       * [Eulers Totient Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/eulers%20totient%20sieve.cpp)
       * [Segmented Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/segmented_sieve.cpp)
       * [Bitwise Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/bitwise_sieve.cpp)
     * *Primality Check :*
       * [isPrime](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/isPrime.cpp)
       * [Miller Rabin Preimality Test](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/miller%20rabin%20preimality%20test.cpp)
+    * *Prime factorization : *
+      * [Prime factorization on log n](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/prime%20factorization%20log(n).cpp)
     * *Miscellaneous :*
       * [Moduler Inverse](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/moduler%20inverse.cpp)
       * [Number of Divisor in Qube root](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20divisor%20in%20qube%20root.cpp)
-      * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
       * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
       * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/Catalan_number.cpp)
+      * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
   * **Miscellaneous :**
     * [Stern-Brocot tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stern%20Brocot%20tree.cpp)
