@@ -16,12 +16,14 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
   * **Big Interger :**
     * [Factorial](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Big%20Interger/factorial.cpp)
   * **Data Structure :**
-    * [Binary Indexed Tree (BIT)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/binary%20indexed%20tree.cpp)
-    * [Disjoint Set](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/disjoint%20set.cpp)
-    * [Segment Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/segmet%20tree.cpp)
-    * [Squre Root Decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
-    * [Trie](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
-    * [Merge Sort Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/merge%20sort%20tree.cpp)
+    * *Fundamentals :*
+      * [Squre Root Decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
+    * *Trees :*
+      * [Binary Indexed Tree (BIT)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/binary%20indexed%20tree.cpp)
+      * [Disjoint Set](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/disjoint%20set.cpp)
+      * [Segment Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/segmet%20tree.cpp)
+      * [Trie](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
+      * [Merge Sort Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/merge%20sort%20tree.cpp)
   * **Graphs :**
     * *Graph traversal :*
       * [BFS](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs.cpp)
@@ -42,6 +44,7 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * *Fundamentals :*
       * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
       * [Rabin Carp String Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Rabin%20Carp%20String%20Matching.cpp)
+      * [Suffix Array](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Suffix%20Array.cpp)
   * **Computetional Geometry :**
     * *Covex Hull :*
       * [Jarvis Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Jarvis%20Algorithm.cpp)
