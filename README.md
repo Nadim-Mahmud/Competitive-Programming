@@ -7,7 +7,6 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
 
 
 ## Table of conetents :
-
   * **Sorting Algorithm :**
     * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
     * [Insertion Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Insertion%20Sort.cpp)
@@ -75,6 +74,5 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
       * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
       * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
       * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/Catalan_number.cpp)
-    
   * **Miscellaneous :**
     * [Stern-Brocot tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stern%20Brocot%20tree.cpp)
