@@ -1,7 +1,7 @@
 # `Competitive Programming Template`
 Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` which i am using in competitive programming. I implemented most of them but some of them are collected.
 
-### table of conetents :
+## `table of conetents :`
 
   * **Sorting Algorithm :**
     * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
