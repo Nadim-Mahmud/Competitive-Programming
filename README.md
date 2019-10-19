@@ -69,7 +69,7 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
     * *Primality Check :*
       * [isPrime](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/isPrime.cpp)
       * [Miller Rabin Preimality Test](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/miller%20rabin%20preimality%20test.cpp)
-    * *Prime factorization : *
+    * *Prime factorization :*
       * [Prime factorization on log n](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/prime%20factorization%20log(n).cpp)
     * *Miscellaneous :*
       * [Moduler Inverse](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/moduler%20inverse.cpp)
