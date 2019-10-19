@@ -1,6 +1,7 @@
 /**
 *   This code will print all nPr
 *   While ara contains n elements
+*   a is starring postion of array
 */
 
 int ara[200],mr[200],k;
