@@ -1,5 +1,9 @@
 /// O(VE*E)
+/// if u to v have mutiple path dont add path multiple time.
+/// just add the path cost to capacity matrix
 
+/// reverse edge must be push. if unidirectional graph then push reverse edge
+/// seting the reverse edge capacity zero
 
 typedef pair<int,int> pii;
 vector<int>adj[MAX];
@@ -7,6 +11,13 @@ int cap[MAX][MAX];
 
 int q[100000];
 bool fl[MAX][MAX]; // u theke v te path ase kina
+
+/**
+    n = number of nodes
+    s = starting node
+    t = destination node
+    returns maximum flow
+*/
 
 int dinic( int n,int s,int t ) {
     int prev[MAX], u, v, i, z, flow = 0, qh, qt, inc;
