@@ -2,7 +2,7 @@
 /// and in each query [log(n)]
 
 /**
-    n’th catalan number : Cn = 1/(n+1)(2n n) = (2n n) - (2n n+1)
+    n’th catalan number : Cn = (1/(n+1))(2n n) = (2n n) - (2n n+1)
                 =(2n)!/((2n-n)!*n!*(n+1))
                 =(2n)!/((n)!*(n+1)!)
 
