@@ -32,6 +32,9 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * *minimum spannig tree :*
       * [Kruskal Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
       * [Prims Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
+    * *Miscellaneous :*
+      * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/2-Sat.cpp)
+      * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stable%20Marriage.cpp)
   * **String :**
     * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
     * [Rabin Carp String Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Rabin%20Carp%20String%20Matching.cpp)
@@ -56,5 +59,4 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     
   * **Miscellaneous :**
     * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/matrix_exponent.cpp)
-    * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/2-Sat.cpp)
-    * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stable%20Marriage.cpp)
+    * [Stern-Brocot tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stern%20Brocot%20tree.cpp)
