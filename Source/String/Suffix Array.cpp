@@ -12,6 +12,13 @@
     4 na                              4 na
     5 a                               2 nana
     So the suffix array for "banana" is {5, 3, 1, 0, 4, 2}
+
+    Uses :
+
+        * number of uniqe substring of a string : n(n+1)/2 − ∑ lcp[i] (summation of all lcp is duplicate string as lcp means longest match with the prev string)
+        * longest common substring by sliding window   (add special character and joint all strings then calculate lcp and by sliding window we can determine the longest substring)
+        * longest repeated substring : maximum value of lcp is longest repeated substring, number of the maximum number is the longest repeated substring is the longest repeated substring
+        * Finding a substring in a string : by binary search on the lcp array
 */
 
 #define MX 10005
