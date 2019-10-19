@@ -7,18 +7,6 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
 
 
 ## Table of conetents :
-  * **Sorting Algorithm :**
-    * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
-    * [Insertion Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Insertion%20Sort.cpp)
-    * [Selection Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Selection%20Sort.cpp)
-    * [Merge Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Merge%20Sort.cpp)
-    * [Quick Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Quick%20Sort.cpp)
-  * **Back Tracking :**
-    * [Combinition Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Combinition_Generation.cpp)
-    * [Permutation Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Permutation_generation.cpp)
-    * [m-Colouring](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/m-colouring.cpp)
-  * **Big Interger :**
-    * [Factorial](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Big%20Interger/factorial.cpp)
   * **Data Structure :**
     * *Fundamentals :*
       * [Squre Root Decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
@@ -44,17 +32,23 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
     * *Miscellaneous :*
       * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/2-Sat.cpp)      
       * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Stable%20Marriage.cpp)
+  * **Maxflow/Matching**
+    * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp)
   * **String Processing :**
     * *Fundamentals :*
       * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
       * [Rabin Carp String Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Rabin%20Carp%20String%20Matching.cpp)
       * [Suffix Array](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Suffix%20Array.cpp)
+  * **Back Tracking :**
+    * [Combinition Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Combinition_Generation.cpp)
+    * [Permutation Generation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/Permutation_generation.cpp)
+    * [m-Colouring](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/BackTracking/m-colouring.cpp)
+  * **Big Interger :**
+    * [Factorial](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Big%20Interger/factorial.cpp)
   * **Computetional Geometry :**
     * *Covex Hull :*
       * [Jarvis Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Jarvis%20Algorithm.cpp)
       * [Graham Scan](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Covex%20Hull%20(Graham%20Scan)%20.cpp)
-  * **Maxflow/Matching**
-    * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp)
   * **Binary Exponentiation :**
     * [Big Mode Recursive](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/BigMod.cpp)
     * [Big Mode Non-Recursive](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/BigMod_Wihtout%20rec.cpp)
@@ -77,5 +71,11 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
       * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
       * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/Catalan_number.cpp)
       * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
+  * **Sorting Algorithms :**
+    * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
+    * [Insertion Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Insertion%20Sort.cpp)
+    * [Selection Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Selection%20Sort.cpp)
+    * [Merge Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Merge%20Sort.cpp)
+    * [Quick Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Quick%20Sort.cpp) 
   * **Miscellaneous :**
     * [Stern-Brocot tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stern%20Brocot%20tree.cpp)
