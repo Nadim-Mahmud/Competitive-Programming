@@ -57,7 +57,7 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
   * **Maxflow/Matching**
     * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp)
   * **Binary Exponentiation :**
-    * * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/matrix_exponent.cpp)
+    * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/matrix_exponent.cpp)
   * **Number Theory Algorithms :**
     * *Sieves :*
       * [Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
