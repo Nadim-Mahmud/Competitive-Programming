@@ -23,23 +23,27 @@ Tamplate with Data Structures &amp; Algorithms &amp; Some Freqently used basic c
     * [Trie](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
     * [Merge Sort Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/merge%20sort%20tree.cpp)
   * **Graphs :**
-    * [BFS](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs.cpp)
-    * [BFS in 2D Grid](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs%20in%202d.cpp)
-    * [DFS Basic Code](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dfs%20basic%20.cpp)
-    * [Dijkstra](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dijkstra.cpp)
-    * [Articulation Point](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20point.cpp)
-    * [Articulation Bridge](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20Bridge.cpp)
+    * *Graph traversal :*
+      * [BFS](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs.cpp)
+      * [BFS in 2D Grid](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs%20in%202d.cpp)
+      * [DFS Basic Code](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/DFS.cpp)
+    * *Single-source shortest paths :*
+      * [Dijkstra](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dijkstra.cpp)
+    * *Connected components, bridges, articulations points :*
+      * [Articulation Point](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20point.cpp)
+      * [Articulation Bridge](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20Bridge.cpp)
     * *minimum spannig tree :*
       * [Kruskal Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
       * [Prims Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
     * *Miscellaneous :*
       * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/2-Sat.cpp)
       * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Miscellaneous/Stable%20Marriage.cpp)
-  * **String :**
-    * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
-    * [Rabin Carp String Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Rabin%20Carp%20String%20Matching.cpp)
+  * **String Processing :**
+    * *Fundamentals :*
+      * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
+      * [Rabin Carp String Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/Rabin%20Carp%20String%20Matching.cpp)
   * **Computetional Geometry :**
-    * *Covex Hull*
+    * *Covex Hull :*
       * [Jarvis Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Jarvis%20Algorithm.cpp)
       * [Graham Scan](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Computetional%20Geometry/Covex%20Hull%20(Graham%20Scan)%20.cpp)
   * **Maxflow/Matching**
