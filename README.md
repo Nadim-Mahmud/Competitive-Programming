@@ -9,7 +9,7 @@ Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` w
 ## Table of conetents :
   * **Data Structure :**
     * *Fundamentals :*
-      * [Squre Root Decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
+      * [Squre Root Decomposition / Mo's Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
     * *Trees :*
       * [Binary Indexed Tree (BIT)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/binary%20indexed%20tree.cpp)
       * [Disjoint Set](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/disjoint%20set.cpp)
