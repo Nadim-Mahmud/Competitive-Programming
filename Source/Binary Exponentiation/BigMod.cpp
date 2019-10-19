@@ -1,5 +1,6 @@
 /**
     Description : calculate (n^r)%MD
+    Complexity : O(log r)
 */
 
 #define MD 1000007
