@@ -1,4 +1,7 @@
-///       Gaussian Elemination [n^3]
+/**  Gaussian Elemination 
+     Complexity : O(n^3)
+     solve equations with any degree   
+*/
 
 void gauss(){
     for(i=0;i<n;i++){
