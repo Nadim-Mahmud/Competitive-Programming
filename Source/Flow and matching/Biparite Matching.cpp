@@ -1,6 +1,7 @@
 /**
-    Description : Find maximum matching. we can find bipartite graph by left or right array
+    Description : Find maximum matching. we can find bipartite graph from left or right array
                   lt = left, rt =right, ed = adjesency matrix
+                  left and right graph can contains nodes with same same or number
     Time Complexity : O(n^2*m)
 */
 
@@ -35,3 +36,6 @@ int bipartiteMatching(int n){
     }
     return mxBpm;
 }
+
+// clear edge
+ed[i].push_back(j) // i may same as j
