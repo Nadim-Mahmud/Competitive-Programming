@@ -2,7 +2,7 @@
     Description : Find maximum matching. we can find bipartite graph from left or right array
                   lt = left, rt =right, ed = adjesency matrix
                   left and right graph can contains nodes with same same or number
-    Time Complexity : O(n^2*m)
+    Time Complexity : O(EV)
     Some Properties :
         * A graph is bipartite, if it doesn't contain any odd cycle.
         0. V = A u B
