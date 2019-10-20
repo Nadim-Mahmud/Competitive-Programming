@@ -55,6 +55,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/matrix_exponent.cpp)
   * **Combinatorics :**
     * [Inclusion Exclustion](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Inclusion%20Exclustion.cpp)
+    * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Catalan_number.cpp)
   * **Number Theory Algorithms :**
     * *Sieves :*
       * [Sieve nlogn](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
@@ -71,7 +72,6 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
       * [Moduler Inverse](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/moduler%20inverse.cpp)
       * [Number of Divisor in Qube root](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20divisor%20in%20qube%20root.cpp)
       * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
-      * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/Catalan_number.cpp)
       * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
   * **Sorting Algorithms :**
     * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
