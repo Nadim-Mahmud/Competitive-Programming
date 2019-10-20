@@ -1,5 +1,5 @@
 /**
- * Description : DisjointSet (Makes a set of sets, merge sets, set membership, no. of sets, undo last operation)
+ * Description : DisjointSet (Makes a set of sets, merge sets, set membership, no. of sets, undo last operation,size of each component)
  * Usage: parent O(lg(N)), setUp O(lg(N)), undo O(1),
  */
 
@@ -32,7 +32,6 @@ void setUp(int a,int b){
         pts[++in] = b;;
     }
     compo--;
-    P(compo)
 }
 
 void undo(){
