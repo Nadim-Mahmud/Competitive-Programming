@@ -1,5 +1,5 @@
 # Competitive Programming Template
-Codes of `Data Structures` , `Algorithms` and `Some Freqently used basic code` which i am using in competitive programming. I implemented most of them but some of them are collected.
+Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` which i am using in competitive programming. I implemented most of them but some of them are collected.
 
 ### Usefull Links :
   * [`cp-algorithms`](https://cp-algorithms.com/)
