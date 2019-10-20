@@ -15,6 +15,7 @@ int parent(int n){
 void setUp(int a,int b){
     a = parent(a);
     b = parent(b);
+    if(a==b) return;
     if(sz[a]<sz[b]){
         rp[a] = rp[b];
         sz[b] += sz[a];
