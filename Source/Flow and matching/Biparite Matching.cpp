@@ -3,6 +3,16 @@
                   lt = left, rt =right, ed = adjesency matrix
                   left and right graph can contains nodes with same same or number
     Time Complexity : O(n^2*m)
+    Some Properties :
+        * A graph is bipartite, if it doesn't contain any odd cycle.
+        0. V = A u B
+        1. Konigs minimax: In a bipartite graph v = t and a = p
+        2. Hall's theorem: G has a matching from A to B, iif, for all X (subset of A), |adj(X)| >= |X|
+        3. The Marriage Theorem: A perfect match exist iff, it has a matching from A to B and |A| = |B|
+        4. Dilworth Theorem: For a finite partially ordered poset S,
+        the largest antichain is equal to the minimum chain partition and vice versa.
+        Consider a bipartite graph built this way, A = S, B = S and and edge from x(A) to y(B) exists if x <= y.
+        Let, c be the minimum chain partition. Then, v + c = n.
 */
 
 
