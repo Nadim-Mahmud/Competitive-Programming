@@ -54,7 +54,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * [Big Mode Non-Recursive](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/BigMod_Wihtout%20rec.cpp)
     * [Matrix Exponent](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Binary%20Exponentiation/matrix_exponent.cpp)
   * **Combinatorics :**
-    * [Inclusion Exclustion](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Inclusion%20Exclustion.cpp)
+    * [Inclusion Exclustion](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Inclusion%20Exclustion.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/tutorial/)
     * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Catalan_number.cpp)
   * **Number Theory Algorithms :**
     * *Sieves :*
