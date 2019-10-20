@@ -38,7 +38,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
       * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Stable%20Marriage.cpp)
   * **Maxflow/Matching**
     * [Maximum Bipartite Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/Biparite%20Matching.cpp)
-    * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp)
+    * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/tutorial/)
   * **String Processing :**
     * *Fundamentals :*
       * [KMP](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/String/KMP.cpp)
