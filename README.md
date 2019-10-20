@@ -22,7 +22,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
       * [BFS in 2D Grid](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/bfs%20in%202d.cpp)
       * [DFS Basic Code](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/DFS.cpp)
     * *Single-source shortest paths :*
-      * [Dijkstra](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dijkstra.cpp)
+      * [Dijkstra using priority queue](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/dijkstra.cpp)
     * *Connected components, bridges, articulations points :*
       * [Articulation Point](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20point.cpp)
       * [Articulation Bridge](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Articulation%20Bridge.cpp)
