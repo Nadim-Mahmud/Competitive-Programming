@@ -1,11 +1,31 @@
 
-///  *** Disjoint Set Union Find [n||1]
+/**
+    Description : Always check parent for size or anything
+    Complexity : O(n) ~ O(log n) ~ O(1)
+*/
 
-int parent(int n)
-{
+#define MX 10000
+int rp[MX],sz[MX];
+
+int parent(int n){
     if(rp[n]==n)return n;
     return rp[n]=parent(rp[n]);
 }
+
 void setUp(int a,int b){
-    rp[parent(b)]=parent(a);
+    a = parent(a);
+    b = parent(b);
+    if(sz[a]<sz[b]){
+        rp[a] = rp[b];
+        sz[b] += sz[a];
+    }
+    else{
+        rp[b] = rp[a];
+        sz[a] += sz[b];
+    }
+}
+
+void init(){
+    for(int i=0;i<=MX;i++)
+        rp[i]=i,sz[i]=1;
 }
