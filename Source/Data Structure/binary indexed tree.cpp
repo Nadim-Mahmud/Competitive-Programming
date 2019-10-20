@@ -1,5 +1,5 @@
 
-///   *** BIT [Log(n)] space [n]
+///   *** BIT O(Log(n)) space O(n)
 
 /**   1 based index
 *     which functions has inverse function that can be solve bye BIT
