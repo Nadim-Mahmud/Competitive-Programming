@@ -13,6 +13,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * *Trees :*
       * [Binary Indexed Tree (BIT)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/binary%20indexed%20tree.cpp)
       * [Disjoint Set](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/disjoint%20set.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
+      * [Disjoint Set with undo operation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/Disjoint%20Set%20Undo.cpp)
       * [Segment Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/segmet%20tree.cpp)
       * [Trie with dynamic memory](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/Trie%20Pointer.cpp)
       * [Trie with array](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
