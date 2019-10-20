@@ -6,7 +6,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
 
 
 
-## Table of conetents :
+## Table of contents :
   * **Data Structure :**
     * *Fundamentals :*
       * [Squre Root Decomposition / Mo's Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/squre%20root%20decmp.cpp)
