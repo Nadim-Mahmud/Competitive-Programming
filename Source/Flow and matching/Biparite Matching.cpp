@@ -4,6 +4,7 @@
                   left and right graph can contains nodes with same same or number
     Time Complexity : O(EV)
     Some Properties :
+        * in a graph if we push both side then number of pair is Bipartite/2
         * A graph is bipartite, if it doesn't contain any odd cycle.
         0. V = A u B
         1. Konigs minimax: In a bipartite graph v = t and a = p
