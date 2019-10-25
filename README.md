@@ -36,6 +36,8 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * *Miscellaneous :*
       * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/2-Sat.cpp)      
       * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Stable%20Marriage.cpp)
+  * **Trees :**
+    * [DSU on tree(heavy-light decomposition style)](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Trees/DSU%20on%20tree.cpp) [`CF Blog-1`](https://codeforces.com/blog/entry/44351) [`CF Blog-2`](https://codeforces.com/blog/entry/67696) 
   * **Maxflow/Matching**
     * [Maximum Bipartite Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/Biparite%20Matching.cpp)
     * [Dinic Max Flow](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/tutorial/)
