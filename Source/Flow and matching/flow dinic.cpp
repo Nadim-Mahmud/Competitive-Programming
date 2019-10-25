@@ -1,9 +1,11 @@
-/// O(EV*V)
-/// if u to v have mutiple path dont add path multiple time.
-/// just add the path cost to capacity matrix
+/**
+    Time Complexity : O(V^2*E)
+    Use : if u to v have mutiple path dont add path multiple time.
+    just add the path cost to capacity matrix
+    * reverse edge must be push. if unidirectional graph then push reverse edge
+    seting the reverse edge capacity zero
+*/
 
-/// reverse edge must be push. if unidirectional graph then push reverse edge
-/// seting the reverse edge capacity zero
 
 typedef pair<int,int> pii;
 vector<int>adj[MAX];
