@@ -63,8 +63,8 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Catalan_number.cpp)
   * **Number Theory Algorithms :**
     * *Sieves :*
-      * [Sieve nlogn](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
-      * [Sieve O(n)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/SIeve%20O_n.cpp)
+      * [Sieve of Eratosthenes nlogn](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
+      * [Sieve of Eratosthenes O(n)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/SIeve%20O_n.cpp)
       * [Eulers Totient Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/eulers%20totient%20sieve.cpp)
       * [Segmented Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/segmented_sieve.cpp)
       * [Bitwise Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/bitwise_sieve.cpp)
