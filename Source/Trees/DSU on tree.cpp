@@ -50,24 +50,25 @@ void add(int v, int p, int x){
 
 
 void dfs(int v, int p, bool keep){
-    //P2(v,keep)
     int mx = -1, bigChild = -1;
     for(auto u : g[v])
        if(u != p && sz[u] > mx)
           mx = sz[u], bigChild = u;
-    //clearing effect from previous calculation on light tree
+    //run a dfs on small childs and clear them from cnt
     for(auto u : g[v])
         if(u != p && u != bigChild)
-            dfs(u, v, 0);  // run a dfs on small childs and clear them from cnt
+            dfs(u, v, 0);  //
     // actual processing of vertex v starts from here
     //mxn = 0;
     if(bigChild != -1)
         dfs(bigChild, v, 1), big[bigChild] = 1;  // bigChild marked as big and not cleared from cnt
     // calculating ans
     add(v, p, 1);
-    // here access the result for each node. if needed then access on add() function
     //res[v] = ans[mxn];
-    //now cnt[c] is the number of vertices in subtree of vertex v that has color c. You can answer the queries easily.
+    /** here access the result for each node. if needed then access on add() function
+        now cnt[c] is the number of vertices in subtree of vertex v that has color c.
+        You can answer the queries easily.
+    */
     if(bigChild != -1)
         big[bigChild] = 0;
     if(keep == 0)
