@@ -6,7 +6,7 @@
 *     it works like consucative sums but in log(n)
 */
 
-int n=SIZE of space;
+int n=SIZE; //of space;
 void update(int idx,int val)//adding value val to idx index
 {
     while(idx<=n){
