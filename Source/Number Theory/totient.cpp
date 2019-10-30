@@ -1,6 +1,7 @@
 /**
 *   Description : Find number of co-prime of a number less than that number  
 *	Complexity : O(sqrt(n)) 
+*   source : https://cp-algorithms.com/algebra/phi-function.html
 */
 
 int phi(int n) {
