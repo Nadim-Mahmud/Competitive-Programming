@@ -38,6 +38,9 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * *Miscellaneous :*
       * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/2-Sat.cpp)      
       * [Stable Marriage](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/Stable%20Marriage.cpp)
+  * **Dynamic Programming :**
+    * *Recursive :*
+      * [Digit Dp](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Dynamic%20Programming/digitDp.cpp)
   * **Maxflow/Matching**
     * [Maximum Bipartite Matching](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/Biparite%20Matching.cpp)
     * [Dinic Max Flow O(EV^2)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Flow%20and%20matching/flow%20dinic.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/tutorial/)
