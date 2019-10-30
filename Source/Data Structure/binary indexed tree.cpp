@@ -14,7 +14,7 @@ void update(int idx,int val)//adding value val to idx index
         idx+=idx&(-idx); // Last set of digit
     }
 }
-int query(int idx){// returns sum of 1 to idx index
+int query(int idx){// returns sum of [1,idx] index
     int sum=0;
     while(idx>0){
         sum+=bitree[idx];
