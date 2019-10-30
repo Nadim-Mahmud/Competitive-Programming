@@ -80,9 +80,12 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * *Prime factorization :*
       * [Prime factorization O(sq(n))](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Number%20Theory/primeFactorization.cpp)
       * [Prime factorization on log n](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/prime%20factorization%20log(n).cpp)
+    * *Number-theoretic functions :*
+      * [Number of Divisors sqrt(n)](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Number%20Theory/number%20of%20divisor.cpp)
+      * [Number of Divisor in Qube root](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20divisor%20in%20qube%20root.cpp)
+      * [Sum of divisors](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Number%20Theory/Sum%20of%20divisor.cpp)
     * *Miscellaneous :*
       * [Moduler Inverse](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/moduler%20inverse.cpp)
-      * [Number of Divisor in Qube root](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20divisor%20in%20qube%20root.cpp)
       * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
       * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
   * **Sorting Algorithms :**
