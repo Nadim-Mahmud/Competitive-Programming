@@ -14,10 +14,11 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
       * *Binary Indexed Tree (BIT) :*
         * [BIT point update rnage query](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/binary%20indexed%20tree.cpp)
         * [BIT Range Update Range Query](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/82b126a940dc4ecaa49c55f2287c3c99b84b2a1a/Source/Data%20Structure/BITRangeUpdateRangeQuery.cpp)
+      * *Sgement tree :*
+        * [Segment Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/segmet%20tree.cpp)
+        * [Iterative Segement tree](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Data%20Structure/iterativeSegmentTree.cpp)
       * [Disjoint Set](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/disjoint%20set.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
       * [Disjoint Set with undo operation](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/Disjoint%20Set%20Undo.cpp)
-      * [Segment Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/segmet%20tree.cpp)
-      * [Iterative Segement tree](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Data%20Structure/iterativeSegmentTree.cpp)
       * [Trie with dynamic memory](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/Trie%20Pointer.cpp)
       * [Trie with array](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/trie.cpp)
       * [Merge Sort Tree](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Data%20Structure/merge%20sort%20tree.cpp)
