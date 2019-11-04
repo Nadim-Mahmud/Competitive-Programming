@@ -77,9 +77,9 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * *Sieves :*
       * [Sieve of Eratosthenes nlogn](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
       * [Sieve of Eratosthenes O(n)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/SIeve%20O_n.cpp)
-      * [Eulers Totient Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/eulers%20totient%20sieve.cpp)
-      * [Segmented Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/segmented_sieve.cpp)
       * [Bitwise Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/bitwise_sieve.cpp)
+      * [Segmented Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/segmented_sieve.cpp)
+      * [Eulers Totient Sieve](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/eulers%20totient%20sieve.cpp)
     * *Primality Check :*
       * [isPrime](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/isPrime.cpp)
       * [Miller Rabin Preimality Test](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/miller%20rabin%20preimality%20test.cpp)
