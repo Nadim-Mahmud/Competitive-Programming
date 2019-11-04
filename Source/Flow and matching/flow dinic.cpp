@@ -1,4 +1,5 @@
 /**
+    Name : Flow Dinic
     Time Complexity : O(V^2*E)
     Use : if u to v have mutiple path dont add path multiple time.
     just add the path cost to capacity matrix

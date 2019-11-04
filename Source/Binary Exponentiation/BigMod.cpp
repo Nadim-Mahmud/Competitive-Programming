@@ -1,4 +1,5 @@
 /**
+    Name : Bigmod
     Description : calculate (n^r)%MD
     Complexity : O(log r)
 */

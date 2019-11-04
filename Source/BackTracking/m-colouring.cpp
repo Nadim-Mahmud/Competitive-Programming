@@ -1,4 +1,5 @@
 /**
+*   Name : m-Coloring problem
 *   this variation is to print maximum node with a spacific colour here 2
 */
 

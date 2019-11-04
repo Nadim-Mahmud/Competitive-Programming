@@ -1,4 +1,5 @@
 /**
+    Name : Trie with Dynamic memory
     Time complexity : o((number of words)*(maximum lenght))
 */
 

@@ -1,4 +1,5 @@
 /**
+*   Name : All combination generation
 *   This code will print all nCr
 *   While ara is elements of n
 */

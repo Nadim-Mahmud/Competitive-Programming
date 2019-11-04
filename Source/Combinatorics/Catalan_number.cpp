@@ -1,7 +1,6 @@
-///Time Complexity =~ onetime n for factorial
-/// and in each query [log(n)]
 
 /**
+    Name : Catalan Number
     n’th catalan number : Cn = (1/(n+1))(2n n) = (2n n) - (2n n+1)
                 =(2n)!/((2n-n)!*n!*(n+1))
                 =(2n)!/((n)!*(n+1)!)
@@ -21,6 +20,9 @@
     * Cn is the number of ways that the vertices of a convex 2n-gon can be paired so that the line segments joining paired vertices do not intersect. This is precisely the condition that guarantees that the paired edges can be identified (sewn together) to form a closed surface of genus zero (a topological 2-sphere).
 
 */
+
+///Time Complexity =~ onetime n for factorial
+/// and in each query [log(n)]
 
 #define ll long long
 #define MX 1000005

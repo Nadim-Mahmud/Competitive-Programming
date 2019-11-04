@@ -1,4 +1,5 @@
 /**
+*   Name : all permutation generation
 *   This code will print all nPr
 *   While ara contains n elements
 *   a is starring postion of array

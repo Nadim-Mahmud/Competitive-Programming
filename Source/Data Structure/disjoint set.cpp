@@ -1,5 +1,6 @@
 
 /**
+    Name : Disjoint set union find
     Description : Always check parent for size or anything
     Complexity : O(n) ~ O(log n) ~ O(1)
 */

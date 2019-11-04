@@ -1,4 +1,5 @@
 /**
+    Name : Bipartite Matching
     Description : Find maximum matching. we can find bipartite graph from left or right array
                   lt = left, rt =right, ed = adjesency matrix
                   left and right graph can contains nodes with same same or number

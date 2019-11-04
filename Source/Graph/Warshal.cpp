@@ -1,4 +1,6 @@
 /**
+    Name : Warshal Algorithm
+
     he key idea to notice here is that, we go through all
     the nodes and for each node we try to make every path
     better by going through that. Hence, Floyd Warshall can add vertex online.

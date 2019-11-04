@@ -1,4 +1,7 @@
-///BIT
+/**
+    Description : BIT range update range query
+    Time Complexity : all log(n)
+*/
 
 /// Remember to use 1 based indexing
 //const int MX = 100005;

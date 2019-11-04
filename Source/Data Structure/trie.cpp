@@ -3,6 +3,7 @@
 
 
 /**
+    Name : Trie with array
     This trie is for All Uppercase & Lowercase letters
 */
 

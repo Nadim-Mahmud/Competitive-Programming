@@ -1,4 +1,5 @@
 /**
+    Name : Stern Brocot tree
     here n = numerator d = denominator
     prn = precissions numerator prd =
     O(log n)

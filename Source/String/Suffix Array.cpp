@@ -1,4 +1,5 @@
 /**
+    Name : Suffix array
     Description : it gives all suffixes in sorted form on an array
     the array contains starting position of suffixes in sorted order
     Longest common prefix array contains long match with the previous suffix in sorted form

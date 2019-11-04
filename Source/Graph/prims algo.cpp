@@ -1,5 +1,7 @@
-//Minimum Spanning Tree
-//Prims Algorithm
+/**
+    Name : Minimum Spanning Tree Prims Algorithm
+
+*/
 #include <bits/stdc++.h>
 using namespace std;
 #define LL long long

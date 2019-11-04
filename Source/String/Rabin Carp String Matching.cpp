@@ -1,6 +1,4 @@
 
-
-
 /// **** Rabin-Karp
 
 #define MD 1000000009

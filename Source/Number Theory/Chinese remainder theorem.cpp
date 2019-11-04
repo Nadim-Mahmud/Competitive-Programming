@@ -1,7 +1,9 @@
-/*
-lets think about an equation:   x % num[i] = rem[i];
-Given num[] and rem[] list, you have to calculate an x ,
-so that for every index i, corrsponding num[i] and rem[i] should satisfy the equation;
+/**
+    Name : Chinese remainder theorem
+
+    Description : lets think about an equation:   x % num[i] = rem[i];
+    Given num[] and rem[] list, you have to calculate an x ,
+    so that for every index i, corrsponding num[i] and rem[i] should satisfy the equation;
 */
 
 

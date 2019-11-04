@@ -1,4 +1,5 @@
 /**
+*   Name : Digit DP
 *	Description : generate all number upto the number give into the string st[]
 				Given implementation will count how many numbers and those numbers digits sum divisible by n
 *   Complexity : O(multiplicatins of parameters)

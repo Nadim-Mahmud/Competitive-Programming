@@ -1,4 +1,6 @@
-/** Description : compute the union of sets
+/**
+    Name : Inclusion-Exclusion
+    Description : compute the union of sets
     Time Complexity : O(2^n)
     Space : O(n)
     Source : collected form hacker earth

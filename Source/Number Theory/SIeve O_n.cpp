@@ -1,4 +1,5 @@
 /**
+    Name : Sieve O(n)
     Description : pr stores all primes and lp stores lowest prime factors
     Complexity : O(n)
 */

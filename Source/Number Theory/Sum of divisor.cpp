@@ -1,6 +1,7 @@
 /**
-*   Description : Find sum of divisor of a given number  
-*				σ(n)=(p1^(e1+1)-1)/(p1−1) * (p2^(e2+1)−1)/(p2−1)***(pk^(ek+1)−1)(pk−1)  
+*   Name : SOD
+*   Description : Find sum of divisor of a given number
+*				σ(n)=(p1^(e1+1)-1)/(p1−1) * (p2^(e2+1)−1)/(p2−1)***(pk^(ek+1)−1)(pk−1)
 *	Complexity : O(sqrt(n)) , Squre root porjnto jotogula prime ase
 *	Use : store prime up to squreroot(n) by efficient sieve, in = number of prime
 */
