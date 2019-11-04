@@ -93,6 +93,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * *Miscellaneous :*
       * [Moduler Inverse](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/moduler%20inverse.cpp)
       * [Gaussian Elemination](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/gaussian_elemination.cpp)
+      * [Chinese remainder theorem](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Number%20Theory/Chinese%20remainder%20theorem.cpp)
       * [Number of Primes](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/number%20of%20primes.txt)
   * **Sorting Algorithms :**
     * [Bubble Sort](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Sorting/Bubble%20Sort.cpp)
