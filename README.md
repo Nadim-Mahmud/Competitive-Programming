@@ -39,7 +39,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
       * [Kruskal Algorithm](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
       * [Prims Algo](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/minimum%20spannig%20tree%20(Kruskal).cpp)
     * *Trees :*
-      * [Heavy light decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Trees/HLD%20Anudeep%20blog%20Style.cpp)
+      * [Heavy light decomposition](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Trees/HLD%20Anudeep%20blog%20Style.cpp) [`Anudeep`](https://blog.anudeep2011.com/heavy-light-decomposition/)
       * [DSU on tree(heavy-light decomposition style)](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Trees/DSU%20on%20tree.cpp) [`CF Blog-1`](https://codeforces.com/blog/entry/44351) [`CF Blog-2`](https://codeforces.com/blog/entry/67696) 
     * *Miscellaneous :*
       * [2 Sat](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Graph/2-Sat.cpp)      
