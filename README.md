@@ -74,7 +74,6 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
     * [Inclusion Exclustion](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Inclusion%20Exclustion.cpp) [`Hacker Earth`](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/tutorial/)
     * [Catalan Number](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Combinatorics/Catalan_number.cpp)
   * **Number Theory Algorithms :**
-    * [`Basics`](https://github.com/Nadim-Mahmud/Competitive-Programming/blob/master/Source/Number%20Theory/Basics.md)
     * *Sieves :*
       * [Sieve of Eratosthenes nlogn](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/sieve.cpp)
       * [Sieve of Eratosthenes O(n)](https://github.com/Nadim-Mahmud/Competitive-Programming-Template/blob/master/Source/Number%20Theory/SIeve%20O_n.cpp)
