@@ -1,34 +1,42 @@
 #include <bits/stdc++.h>
-#define ll long long
-#define P(X) cout<<"db "<<X<<endl;
-#define P2(X,Y) cout<<"db2 "<<X<<" "<<Y<<endl;
-#define rep(i,n) for(i=1;i<=n;i++)
-#define FO freopen("t.txt","w",stdout);
-#define MS(XX,YY) memset(XX,YY,sizeof(XX));
-#define pii pair<int,int>
-#define chk(n,i) (bool)(n&(1<<i))
-#define on(n,i) (n|(1<<i))
-#define off(n,i) n=n&(~(1<<i))
-#define eps 10e-7
-#define MX 1000005
-using namespace std;
 
-//ll ara[MX];
-//ll ar1[MX],ar2[MX];
-//char st[MX];
-//char st1[MX],st2[MX];
+#define P(X) cout<<"db "<<X<<endl;
+#define P2(X,Y) cout<<"d2 "<<X<<" "<<Y<<endl;
+#define P3(X,Y,Z) cout<<"d3 "<<X<<" "<<Y<<" "<<Y<<endl;
+#define SQ(x) ((x) * (x))
+
+#define ll long long
+#define pii pair<int,int>
+
+#define bchk(n,i) (bool)(n&(1<<i))
+#define bon(n,i) (n|(1<<i))
+#define boff(n,i) n=n&(~(1<<i))
+
+#define distance(a,b) (sq(a.x-b.x) + sq(a.y-b.y))
+#define MAX3(a,b,c) max(a,max(b,c))
+#define MS(XX,YY) memset(XX,YY,sizeof(XX));
+#define FastIO ios_base::sync_with_stdio(0);cin.tie(nullptr);
+#define eps 10e-9
+#define MX 1000005
+
+using namespace std;
+int m,n;
 int main()
 {
-    ll i,j,a,b,ts,cn=0,cas=0,n,m,x,y,sum=0,mn=INT_MAX,mx=0;
-    //freopen("test.txt","r",stdin);
-    cin>>ts;
-    /*while(++cas<=ts){
-        scanf("%lld",&);
+    int i,j,test,cas=0;
+    int a,b;
+    freopen("test.txt","r",stdin);
+    scanf("%d",&test);
+    while(test--){
+        scanf("%",&);
 
-        printf("Case %lld: \n",cas,);
-    }*/
+        printf("Case %d:\n",++cas,);
+    }
     return 0;
 }
+
+
+
 /**
 
     DATA STRUCTURE! DATA STRUCTURE! DATA STRUCTURE!
