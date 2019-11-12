@@ -3,6 +3,7 @@ Codes of `Data Structures` , `Algorithms` and `Some freqently used basic code` w
 
 ### Usefull Links :
   * [`cp-algorithms`](https://cp-algorithms.com/)
+  * [CF Blog](https://codeforces.com/blog/entry/57282)
   * [**Basics**](https://docs.google.com/document/d/1zgf-xLDP8GEb9dY7sdip0lQwV0XmrkWCW9BTetBZm3w/edit)
   * [**STL**](https://docs.google.com/document/d/1Zh2VyOlLu_VMxH9tuzaA2mO4FTvzGMdVo3B2D7AWsVo/edit#)
 
