@@ -2,7 +2,7 @@
 
 #define P(X) cout<<"db "<<X<<endl;
 #define P2(X,Y) cout<<"d2 "<<X<<" "<<Y<<endl;
-#define P3(X,Y,Z) cout<<"d3 "<<X<<" "<<Y<<" "<<Y<<endl;
+#define P3(X,Y,Z) cout<<"d3 "<<X<<" "<<Y<<" "<<Z<<endl;
 #define SQ(x) ((x) * (x))
 
 #define ll long long
