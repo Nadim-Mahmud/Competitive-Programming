@@ -229,7 +229,7 @@ void update(int low,int high,int ulow,int uhigh,int val,int pos)
 {
     if(low>high) return ;
     if(lazy[pos]!=0){ /// is not propagated yet
-        seg[pos] += lazy[pos];
+        seg[pos] += (high-low+1)*lazy[pos];
         if(low!=high){  ///if not leaf node
             lazy[pos*2+1] += lazy[pos];
             lazy[pos*2+2] += lazy[pos];
@@ -239,7 +239,7 @@ void update(int low,int high,int ulow,int uhigh,int val,int pos)
 
     if(ulow>high||uhigh<low) return; ///No overlap
     if(ulow<=low&&uhigh>=high){ /// Total Overlap
-        seg[pos] += val;
+        seg[pos] += (high-low+1)*val;
         if(low!=high){
             lazy[pos*2+1] += val;
             lazy[pos*2+2] += val;
@@ -258,7 +258,7 @@ int query(int low,int high,int qlow,int qhigh,int pos)
 {
     if(low>high) return 0;
     if(lazy[pos]!=0){
-        seg[pos] += lazy[pos];
+        seg[pos] += (high-low+1)*lazy[pos];
         if(low!=high){
             lazy[pos*2+1] += lazy[pos];
             lazy[pos*2+2] += lazy[pos];
